@@ -1,0 +1,9 @@
+@media screen and (max-width: 40px) {
+  h1 {
+    color: red;
+    text-align: center;
+  }
+  .column {
+    float: left;
+  }
+}
